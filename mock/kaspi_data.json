@@ -1,0 +1,178 @@
+{
+  "PROD001": {
+    "id": "PROD001",
+    "name": "iPhone 15 Pro 256GB",
+    "category": "Смартфоны",
+    "image_url": "https://kaspi.kz/img/iphone15pro.jpg",
+    "sellers": [
+      {
+        "id": "SELLER001",
+        "name": "TechnoDOM",
+        "price": 589990,
+        "rating": 4.8,
+        "review_count": 1523,
+        "is_official": true
+      },
+      {
+        "id": "SELLER002",
+        "name": "Sulpak",
+        "price": 584990,
+        "rating": 4.7,
+        "review_count": 892,
+        "is_official": true
+      },
+      {
+        "id": "SELLER003",
+        "name": "SmartStore KZ",
+        "price": 579990,
+        "rating": 4.6,
+        "review_count": 456,
+        "is_official": false
+      },
+      {
+        "id": "SELLER004",
+        "name": "GadgetPro",
+        "price": 495000,
+        "rating": 4.3,
+        "review_count": 234,
+        "is_official": false
+      },
+      {
+        "id": "SELLER005",
+        "name": "MobileWorld",
+        "price": 599990,
+        "rating": 4.9,
+        "review_count": 2341,
+        "is_official": true
+      },
+      {
+        "id": "SELLER006",
+        "name": "ElectroCity",
+        "price": 475000,
+        "rating": 3.8,
+        "review_count": 89,
+        "is_official": false
+      },
+      {
+        "id": "SELLER007",
+        "name": "iStore Kazakhstan",
+        "price": 609990,
+        "rating": 4.9,
+        "review_count": 3456,
+        "is_official": true
+      },
+      {
+        "id": "SELLER008",
+        "name": "TechMarket",
+        "price": 587990,
+        "rating": 4.5,
+        "review_count": 678,
+        "is_official": false
+      }
+    ]
+  },
+  "PROD002": {
+    "id": "PROD002",
+    "name": "Samsung Galaxy S24 Ultra 512GB",
+    "category": "Смартфоны",
+    "image_url": "https://kaspi.kz/img/s24ultra.jpg",
+    "sellers": [
+      {
+        "id": "SELLER001",
+        "name": "TechnoDOM",
+        "price": 679990,
+        "rating": 4.8,
+        "review_count": 987,
+        "is_official": true
+      },
+      {
+        "id": "SELLER009",
+        "name": "Samsung Store",
+        "price": 699990,
+        "rating": 4.9,
+        "review_count": 2134,
+        "is_official": true
+      },
+      {
+        "id": "SELLER003",
+        "name": "SmartStore KZ",
+        "price": 649990,
+        "rating": 4.6,
+        "review_count": 543,
+        "is_official": false
+      },
+      {
+        "id": "SELLER010",
+        "name": "PhoneHub",
+        "price": 559990,
+        "rating": 4.2,
+        "review_count": 156,
+        "is_official": false
+      },
+      {
+        "id": "SELLER002",
+        "name": "Sulpak",
+        "price": 689990,
+        "rating": 4.7,
+        "review_count": 765,
+        "is_official": true
+      }
+    ]
+  },
+  "PROD003": {
+    "id": "PROD003",
+    "name": "MacBook Air M3 15\" 16GB 512GB",
+    "category": "Ноутбуки",
+    "image_url": "https://kaspi.kz/img/macbookairm3.jpg",
+    "sellers": [
+      {
+        "id": "SELLER007",
+        "name": "iStore Kazakhstan",
+        "price": 949990,
+        "rating": 4.9,
+        "review_count": 1876,
+        "is_official": true
+      },
+      {
+        "id": "SELLER001",
+        "name": "TechnoDOM",
+        "price": 929990,
+        "rating": 4.8,
+        "review_count": 1234,
+        "is_official": true
+      },
+      {
+        "id": "SELLER011",
+        "name": "ComputerPlanet",
+        "price": 899990,
+        "rating": 4.5,
+        "review_count": 432,
+        "is_official": false
+      },
+      {
+        "id": "SELLER012",
+        "name": "LaptopKZ",
+        "price": 759990,
+        "rating": 3.9,
+        "review_count": 87,
+        "is_official": false
+      },
+      {
+        "id": "SELLER002",
+        "name": "Sulpak",
+        "price": 939990,
+        "rating": 4.7,
+        "review_count": 987,
+        "is_official": true
+      },
+      {
+        "id": "SELLER013",
+        "name": "MacStore",
+        "price": 919990,
+        "rating": 4.6,
+        "review_count": 654,
+        "is_official": false
+      }
+    ]
+  }
+}
